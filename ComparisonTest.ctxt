@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ComparisonTest
+comment0.text=\n\ ComparisonTest\ class\ tests\ if\ the\ sorting\ algorithms\ work\ successfully\ on\ the\ data\ set\ \n\ given\ by\ the\ instructor\n\n\ @author\ Omar\ Drira\ &\ Abiola\ Olofin\n\ @version\ 03/12/20\n
+comment1.params=
+comment1.target=ComparisonTest()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ ComparisonTest\n
+comment10.params=
+comment10.target=void\ testQuickSort3()
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+comment4.params=
+comment4.target=void\ testSelectionSort()
+comment5.params=
+comment5.target=void\ testBubbleSort()
+comment6.params=
+comment6.target=void\ testInsertionSort()
+comment7.params=
+comment7.target=void\ testMergeSort()
+comment8.params=
+comment8.target=void\ testQuickSort1()
+comment9.params=
+comment9.target=void\ testQuickSort2()
+numComments=11

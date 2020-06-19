@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Comparison
+comment0.text=\n\ Comparison\ class\ gives\ us\ two\ methods\ that\ give\ us\ an\ unsorted\ and\ a\ sorted\ list\n\n\ @author\ Omar\ Drira\ &\ Abiola\ Olofin\n\ @version\ 03/12/20\n
+comment1.params=
+comment1.target=Comparison()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Comparison\n
+comment2.params=
+comment2.target=java.lang.Integer[]\ unsortedList()
+comment2.text=\n\ method\ that\ returns\ an\ unsorted\ list\n\ @return\ \ \ \ unsorted\ list\n
+comment3.params=
+comment3.target=java.lang.Integer[]\ sortedList()
+comment3.text=\n\ method\ that\ returns\ a\ sorted\ list\n\ @return\ \ \ \ sorted\ list\n
+numComments=4

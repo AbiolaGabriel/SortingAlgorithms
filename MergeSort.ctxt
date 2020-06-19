@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MergeSort
+comment0.text=\n\ MergeSort\ is\ a\ class\ for\ the\ merge\ sort\ algorithm\n\n\ @author\ Omar\ Drira\ &\ Abiola\ Olofin\n\ @version\ 03/12/20\n
+comment1.params=a
+comment1.target=MergeSort(java.lang.Comparable[])
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MergeSort\n
+comment2.params=a
+comment2.target=void\ sort(java.lang.Comparable[])
+comment2.text=\n\ the\ method\ that\ sorts\ the\ array\ using\ the\ merge\ sort\ algorithm\n\n\ @param\ \ the\ array\ to\ be\ sorted\n
+comment3.params=a\ start\ end
+comment3.target=void\ sortHelper(java.lang.Comparable[],\ int,\ int)
+comment3.text=\n\ the\ method\ that\ constitutes\ the\ recursive\ merge\ sort\ algorithm\n\n\ @param\ \ the\ array\ to\ be\ sorted\ \n\ @param\ the\ start\ of\ the\ part\ to\ be\ sorted\n\ @param\ the\ end\ of\ the\ part\ to\ be\ sorted\n
+comment4.params=a\ start\ half\ end
+comment4.target=void\ merge(java.lang.Comparable[],\ int,\ int,\ int)
+comment4.text=\n\ the\ method\ that\ merges\ two\ sorted\ parts\n\n\ @param\ \ the\ array\ to\ be\ sorted\ \n\ @param\ the\ start\ \n\ @param\ the\ end\ \n\ @param\ the\ middle\n
+numComments=5

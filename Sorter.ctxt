@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sorter
+comment0.text=\n\ Sorter\ interface\ is\ an\ interface\ for\ the\ sorting\ algorithms\n\n\ @author\ Omar\ Drira\ &\ Abiola\ Olofin\n\ @version\ 03/12/20\n
+comment1.params=a
+comment1.target=void\ sort(java.lang.Comparable[])
+comment1.text=\n\ the\ method\ that\ sorts\ the\ array\n\n\ @param\ \ the\ array\ to\ be\ sorted\n
+numComments=2
